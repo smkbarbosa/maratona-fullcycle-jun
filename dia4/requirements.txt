@@ -1,0 +1,4 @@
+Django
+python-decouple
+gunicorn
+dj-static
